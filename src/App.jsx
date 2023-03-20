@@ -3,7 +3,7 @@ import { connect } from 'react-redux'
 import { Incr_Action } from './Action/Action'
 function App(props) {
   // const [count, setCount] = useState(0)
-
+// https://www.freecodecamp.org/news/how-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85/
   return (
    
     <div className="App">
